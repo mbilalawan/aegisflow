@@ -1,0 +1,11 @@
+{
+    "product_title": {
+        "class": "product-title"
+    },
+    "price_value": {
+        "class": "price-color"
+    },
+    "patch_version": 57,
+    "unit_drift_active": true,
+    "last_session_repaired": "SESS-0414"
+}
